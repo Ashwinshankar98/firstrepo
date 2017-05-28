@@ -1,4 +1,6 @@
+
 /*Shankar 106116099*/
+/*Ashwin 106116099*/
 #include<iostream.h>
 #include<conio.h>
 void main()
